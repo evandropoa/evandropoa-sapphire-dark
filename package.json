@@ -2,7 +2,7 @@
   "name": "evandropoa-sapphire-dark",
   "displayName": "EvandroPOA Sapphire Dark",
   "description": "A custom dark sapphire theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "evandropoa",
   "engines": {
     "vscode": "^1.22.0"
