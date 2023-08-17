@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "publisher": "evandropoa",
   "engines": {
-    "vscode": "^1.33"
+    "vscode": "^1.22.0"
   },
   "repository": {
     "type": "git",
