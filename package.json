@@ -1,0 +1,31 @@
+{
+  "name": "evandropoa-sapphire-dark",
+  "displayName": "EvandroPOA Sapphire Dark",
+  "description": "A custom dark sapphire theme",
+  "version": "1.0.0",
+  "publisher": "evandropoa",
+  "engines": {
+    "vscode": "^1.33"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evandropoa/evandropoa-sapphire-dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EvandroPOA Sapphire Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/evandropoa sapphire dark-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "evandropoa",
+    "evandropoa-sapphire",
+    "evandropoa sapphire"
+  ]
+}
